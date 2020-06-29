@@ -25,7 +25,7 @@ There were 4 questions {*Easy:1, Medium:2, Difficult:1*}, curated by the Communi
 This repository is made for uploading solutions for the contest questions in multiple languages.
 Issues have been opened for anyone who wants to contribute the solutions in some language or want to improve the existing ones.
 
-## Contibuting Guidelines🌟
+## Contributing Guidelines🌟
 
 **Developer's time is of utmost importance!** ✔️
 
