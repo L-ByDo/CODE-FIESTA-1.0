@@ -11,9 +11,9 @@
 # CODE-FIESTA- 1.0 
 
 ## Contest Outline
-This contest had been organized by L-ByDo on HackerRank as a part of our initiative of Learning By Doing on [28 June 2020]()
+This contest had been organized by **L-🅱️yDo** on ***HackerRank*** as a part of our initiative of Learning By Doing on [28 June 2020]()
 
-There were 4 questions {Easy:1, Medium:2, Difficult:1}, curated by the Community Facilitators:
+There were 4 questions {*Easy:1, Medium:2, Difficult:1*}, curated by the Community Facilitators:
 
 * [Json's Gems](https://www.hackerrank.com/contests/code-feista-1-0/challenges/jsons-gems)  
 * [Flag Hills](https://www.hackerrank.com/contests/code-feista-1-0/challenges/flag-hills)  
@@ -27,7 +27,7 @@ Issues have been opened for anyone who wants to contribute the solutions in some
 
 ## Contibuting Guidelines🌟
 
-**Developer's time is of utmost importance!**✔️
+**Developer's time is of utmost importance!** ✔️
 
 * To work on an issue, comment on the issue so that the repo maintainers can assign them.
 * Don't make a pull reques tuntil you have been assigned an issue, though you can work on an issue and make a comment later on the issue.
